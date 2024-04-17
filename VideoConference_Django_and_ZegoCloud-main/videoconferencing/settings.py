@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'videoconference_app',
+    'chat_app.apps.ChatAppConfig',
 ]
 
 MIDDLEWARE = [
